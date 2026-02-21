@@ -7,6 +7,7 @@
 [![Website](https://img.shields.io/badge/grippy.cloud-00c896?style=for-the-badge)](https://grippy.cloud/)
 [![Built with Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/GPL--3.0-blue?style=for-the-badge)](LICENSE)
+[![Whitepaper](https://img.shields.io/badge/Whitepaper-Read-white?style=for-the-badge)](https://docs.google.com/document/d/1CFsW3rP30EVX8aB1GxleEIWa_bFTVx5ftV6LR6kaGM8/edit?tab=t.0)
 
 ---
 
