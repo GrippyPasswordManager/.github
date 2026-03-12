@@ -18,10 +18,10 @@ An upcoming password manager built with modern cryptography and zero knowledge.
 
 **OPAQUE Protocol** : Your master password never leaves your device, not even as a hash
 <br>
-**XChaCha20-Poly1305** : Authenticated encryption for every vault entry
+**XChaCha20 Poly1305** : Authenticated encryption for every vault entry
 <br>
 **Rust & Tauri** : Native performance, no Electron bloat
 <br>
-**Proof-of-Work API** : brute force attacks made economically impractical
+**Secure passord Sharing** : Share passwords or entire vaults with your team
 
 </div>
